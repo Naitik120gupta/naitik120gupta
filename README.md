@@ -10,7 +10,7 @@ My work spans **Django backends, real-time systems, and AI-driven solutions**.
 ## 👨‍💻 About Me
 
 - 🔧 Backend Core Member at **Blockchain Research Lab, AKGEC**
-- 🏆 Finalist at **DevQuest – IIT Jodhpur** (Top 10 Teams)
+- 🏆 Finalist at **DevQuest – IIT Jodhpur** (Top 5 Teams)
 - 🧠 Strong interest in **Blockchain, Cybersecurity & AI Agents**
 - ⚙️ Experienced with **Django Channels, WebSockets, REST APIs**
 - 📈 Actively improving **DSA & competitive programming**
@@ -68,8 +68,6 @@ Scroll Instagram reels using **hand gestures**
 
 
 ## 📊 GitHub Stats
-
-![Naitik's GitHub stats](https://github-readme-stats.vercel.app/api?username=naitik120gupta&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naitik120gupta&layout=compact&theme=tokyonight)
 

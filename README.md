@@ -76,7 +76,7 @@ Scroll Instagram reels using **hand gestures**
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/naitik-gupta
-- 📷 Instagram: https://instagram.com/geeksecurity_
+- 📷 Instagram: https://instagram.com/geeksecurity_/
 - 🧠 GitHub: https://github.com/naitik120gupta
 
 ---

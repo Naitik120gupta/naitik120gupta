@@ -1,6 +1,6 @@
 # Hi, I'm Naitik Gupta 👋  
 
-🚀 Backend Developer | Django | Blockchain | AI & Cybersecurity Enthusiast  
+Backend & AI Engineer | Django | LLMs | Blockchain | Real-Time Systems | Cybersecurity 
 
 I’m a B.Tech student and backend-focused developer who loves building **real-world, scalable systems**.  
 My work spans **Django backends, real-time systems, and AI-driven solutions**.

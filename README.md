@@ -69,7 +69,7 @@ Scroll Instagram reels using **hand gestures**
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naitik120gupta&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=naitik120gupta&theme=dark)](https://git.io/streak-stats)
 
 ---
 

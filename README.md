@@ -65,11 +65,11 @@ Scroll Instagram reels using **hand gestures**
 **Tech:** MediaPipe, OpenCV, PyAutoGUI  
 ➡️ Built as a fun ML + automation experiment
 
+---
 
+## 📊 Leetcode Stats
 
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=naitik120gupta&theme=dark)](https://git.io/streak-stats)
+![LeetCode Stats](https://leetcard.jacoblin.cool/naitikgupta12?theme=dark&font=Asap%20Condensed)
 
 ---
 
